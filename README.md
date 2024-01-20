@@ -11,7 +11,7 @@ This is a simple implementation of Elementary Cellular Automata using C++ and SF
 1. Make sure you have SFML installed. You can download it from [SFML's official website](https://www.sfml-dev.org/).
 2. Clone this Repository,
 ``` bash
-https://github.com/Shubhm1shra/Cellular-Automata_1D.git)https://github.com/Shubhm1shra/Cellular-Automata_1D.git
+https://github.com/Shubhm1shra/Cellular-Automata_1D.git)https://github.com/Shubhm1shra/Cellular-Automata-1D.git
 ```
 3. Compile using prefered compiler,
 ``` bash
