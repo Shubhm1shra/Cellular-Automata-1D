@@ -1,14 +1,15 @@
 #include <iostream>
 
-/*
-g++ CellularAutomaton.cpp AutomataCal.cpp -o main main.cpp -I\"C:\\msys64\\mingw64\\include\" -L\"C:\\msys64\\mingw64\\lib\" -lsfml-graphics -lsfml-window -lsfml-system
-*/
-
 #include <SFML/Graphics.hpp>
 #include "CellularAutomaton.hpp"
 
 int main(){
-    CellularAutomaton_1D ca1d(100, 200, 3, 167);
+    int rows = 100;
+    int cols = 200;
+    int cell_size = 3;
+    int rule = 167;
+    
+    CellularAutomaton_1D ca1d(rows, cols, cell_size, rule);
 
     ca1d.start();
 
