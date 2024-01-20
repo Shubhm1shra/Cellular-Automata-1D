@@ -1,4 +1,4 @@
-# Cellular-Automata_1D
+# Cellular-Automata-1D
 
 This is a simple implementation of Elementary Cellular Automata using C++ and SFML Library for Graphics.
 
